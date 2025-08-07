@@ -13,7 +13,7 @@
 ### 🔹 Jenkins CI/CD Pipeline Setup
 > Deploy and automate Django apps with static/media handling, PostgreSQL, and runserver/gunicorn dual config
 
-### 🔹 Ansible Automation Toolkit
+### 🔹 [Ansible Automation Toolkit](https://github.com/subhash-devopslearner/ansible-automation)
 > Real scripts used in production labs – Windows/Linux cleanup, auto installs, reboots, backups
 
 ### 🔹 Ollama + GPT Integration
