@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Subhash Bhalerao – DevOps | System Admin | Python Enthusiast
+# 👋 Hi, <br>I'm Subhash Bhalerao <br> DevOps | System Admin | Python Enthusiast <br>
 
 🔧 A passionate DevOps Engineer and System Administrator with 20+ years in IT.    
 🛠️ Automating labs, building CI/CD pipelines, and deploying real-world infrastructure using **Ansible, Jenkins, NGINX, Docker, GitHub Actions**, and **Azure**.  
